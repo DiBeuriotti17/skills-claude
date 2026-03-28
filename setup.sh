@@ -33,6 +33,10 @@ SKILLS=(
 
   # Planning
   "skills add OthmanAdi/planning-with-files -g -y"
+
+  # Remotion (video)
+  "skills add remotion-dev/skills@remotion-best-practices -g -y"
+  "skills add inferen-sh/skills@remotion-render -g -y"
 )
 
 installed=0
